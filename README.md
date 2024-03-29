@@ -20,6 +20,10 @@ This project is your hub for connecting with Lebanese developers and celebrating
 | [jwt-auth](https://github.com/abbood/jwt-auth) | JWT Authentication for Laravel            | [Abdullah Bakhach](https://www.linkedin.com/in/abdullahbakhach/) |    PHP       |
 | [vue-tippy](https://github.com/KABBOUCHI/vue-tippy) | Vue.js tooltip component                  | [Georges Kabbouchi](https://www.linkedin.com/in/georges-kabbouchi/) |     JavaScript      |
 | [classicaljs](https://github.com/rodyhaddad/classicaljs) | JavaScript library for classical music    |                                                         |       JavaScript            |
-| [async-batcher](https://github.com/hussein-awala/async-batcher) | A Python library to batch the asynchronous requests and handle them in batches.    |         https://www.linkedin.com/in/husseinawala/                                                |       Python            |
-
+| [async-batcher](https://github.com/hussein-awala/async-batcher) | A Python library to batch the asynchronous requests and handle them in batches.    |         https://www.linkedin.com/in/husseinawala/ |       Python  |
+| [Lebanon Relief Network platform](https://github.com/lebanon-relief-project/LRP-web-app) | Lebanon Relief Network platform. |   | JavaScript 
+| [AddeDollarApi](https://github.com/Mahmoud7Osman/AddeDollarApi) | Python Module To Get The LBP And Sayrafa Exchange Rate (Live). |   | Python |
+| [arabic_news_classification](https://github.com/moussaKam/arabic_news_classification) | Different text classification models, applied to Lebanese news articles. | [Moussa Kamaleddine](https://www.linkedin.com/in/moussa-kamaleddine/) | Jupyter Notebook |
+| [Tourify](https://github.com/Murf-y/Tourify) | Android app for tourists help them find the best places in Lebanon. |   | TypeScript |
+| [ha-ogero](https://github.com/oraad/ha-ogero) | HomeAssistant Ogero Integration. |   | Python |
    

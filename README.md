@@ -20,6 +20,6 @@ This project is your hub for connecting with Lebanese developers and celebrating
 | [jwt-auth](https://github.com/abbood/jwt-auth) | JWT Authentication for Laravel            | [Abdullah Bakhach](https://www.linkedin.com/in/abdullahbakhach/) |    PHP       |
 | [vue-tippy](https://github.com/KABBOUCHI/vue-tippy) | Vue.js tooltip component                  | [Georges Kabbouchi](https://www.linkedin.com/in/georges-kabbouchi/) |     JavaScript      |
 | [classicaljs](https://github.com/rodyhaddad/classicaljs) | JavaScript library for classical music    |                                                         |       JavaScript            |
-| [async-batcher](https://github.com/hussein-awala/async-batcher) | A Python library to batch the asynchronous requests and handle them in batches.    |         https://www.linkedin.com/in/husseinawala/                                                |       JavaScript            |
+| [async-batcher](https://github.com/hussein-awala/async-batcher) | A Python library to batch the asynchronous requests and handle them in batches.    |         https://www.linkedin.com/in/husseinawala/                                                |       Python            |
 
    

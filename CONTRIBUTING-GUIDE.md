@@ -8,7 +8,7 @@ To submit a project to our repository, it must meet the following requirements:
 
 1. **Maintained or Created by Lebanese Developer**: The project must have been created or significantly contributed to by a Lebanese developer.
 
-2. **Active within the Last 3 Years**: The project should have been actively maintained or developed within the last three years. This ensures that the project is relevant and up-to-date.
+2. **Practical Use**: The project must serve a practical purpose and should not be solely a demonstration project.
 
 ### Contribution Process
 

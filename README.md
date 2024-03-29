@@ -4,7 +4,7 @@
 
 ## Motivation
 
-This project is your hub for connecting with Lebanese developers and celebrating their outstanding contributions to the world of open source. If you have an open source project, please check our [Contribution Guide](CONTRIBUTING-GUIDE.md)
+This project is your hub for connecting with Lebanese developers and celebrating their outstanding contributions to the world of open source. If you have an open source project, please check our [Contribution Guide](CONTRIBUTING-GUIDE.md)🚀
 
 ## List
 

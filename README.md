@@ -26,4 +26,7 @@ This project is your hub for connecting with Lebanese developers and celebrating
 | [arabic_news_classification](https://github.com/moussaKam/arabic_news_classification) | Different text classification models, applied to Lebanese news articles. | [Moussa Kamaleddine](https://www.linkedin.com/in/moussa-kamaleddine/) | Jupyter Notebook |
 | [Tourify](https://github.com/Murf-y/Tourify) | Android app for tourists help them find the best places in Lebanon. |   | TypeScript |
 | [ha-ogero](https://github.com/oraad/ha-ogero) | HomeAssistant Ogero Integration. |   | Python |
+| [gitcs](https://github.com/knbr13/gitcs) | 📈 Command line tool written in Go. It allows developers to scan their local Git repositories and generate a visual contributions graph. | [Abdullah Alaadine](https://www.linkedin.com/in/abdullah-alaadine/)  | Go |
+| [cli-algorithms-visualizer](https://github.com/go-nerds/cli-algorithms-visualizer) | Simple CLI-based Algorithms Visualizer. | [Abdullah Alaadine](https://www.linkedin.com/in/abdullah-alaadine/)  | Go |
+
    
